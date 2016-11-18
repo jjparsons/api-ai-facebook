@@ -7,15 +7,18 @@
   "env": {
     "APIAI_ACCESS_TOKEN": {
       "description": "Client access token for Api.ai",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "FB_VERIFY_TOKEN": {
       "description": "Verification code",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "FB_PAGE_ACCESS_TOKEN": {
       "description": "Page Access Token",
-      "value": ""
+      "value": "",
+      "required": false
     },
     "APIAI_LANG": {
       "description": "Agent language",
